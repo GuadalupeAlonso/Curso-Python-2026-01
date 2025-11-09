@@ -1,0 +1,20 @@
+{
+    "101": {
+        "nombre": "Ana Solis",
+        "curso": "F\u00edsica",
+        "calificaciones": [
+            9.5,
+            8.0,
+            10.0
+        ]
+    },
+    "102": {
+        "nombre": "Luis Vega",
+        "curso": "Qu\u00edmica",
+        "calificaciones": [
+            7.0,
+            8.5,
+            8.0
+        ]
+    }
+}
