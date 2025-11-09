@@ -1,0 +1,6 @@
+dostoievski: 3
+sinónimos: 1
+horiki: 3
+humanos: 1
+miedo: 1
+palabras: 4
